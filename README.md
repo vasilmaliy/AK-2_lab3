@@ -5,7 +5,7 @@
     --file<arg>  || -f<arg>
     --reverse    || -r
     
-    ###Exsamples:
+### Exsamples:
     --help -hsv
     --check --reverse -sffile
     
